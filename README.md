@@ -52,3 +52,4 @@
     to use template follow this link https://docs.djangoproject.com/en/1.10/intro/tutorial03/#use-the-template-system
 
 -------------------------------------------------------------------------------------------------------------------------------------
+[Wiki version](https://github.com/a5830017/account-tutorial/wiki)
