@@ -1,4 +1,7 @@
 # account-tutorial
+
+#### Follow this https://github.com/a5830017/account-web-app if you can't understand
+
 Tutorial 1 Setup
 - create project
 1. run django-admin startproject project_name and run server to check it
