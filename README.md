@@ -11,15 +11,17 @@ Tutorial 1 Setup
 
 Tutorial 2 create model
 - about model
+    
     you should design your app and make it in table style
 - create model
+    
     after you have idea now you can create model
 
     look and try to understand this guide :
 
-    class Account(models.Model): ===> Name/Type of table|
-        account_text = models.CharField(max_length=200) &and&
-        total_money = models.IntegerField(default=0)    ===> } head in table
+        class Account(models.Model): ===> Name/Type of table|
+            account_text = models.CharField(max_length=200) &and&
+            total_money = models.IntegerField(default=0)    ===> } head in table
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Tutorial 3 web page
