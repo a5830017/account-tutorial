@@ -12,7 +12,7 @@ Tutorial 1 Setup
 Tutorial 2 create model
 - about model
     
-    you should design your app and make it in table style
+    you should design your app and look it in table style
 - create model
     
     after you have idea now you can create model
@@ -47,3 +47,5 @@ Tutorial 3 web page
     use by views.py use for create static style in web page or create user input
     
     to use template follow this link https://docs.djangoproject.com/en/1.10/intro/tutorial03/#use-the-template-system
+
+-------------------------------------------------------------------------------------------------------------------------------------
