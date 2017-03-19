@@ -2,7 +2,7 @@
 
 #### Follow this https://github.com/a5830017/account-web-app if you can't understand
 
-Tutorial 1 Setup
+#### Tutorial 1 Setup
 - create project
 1. run django-admin startproject project_name and run server to check it
 2. run python manage.py startapp app_name
@@ -12,7 +12,7 @@ Tutorial 1 Setup
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Tutorial 2 create model
+#### Tutorial 2 create model
 - about model
     
     you should design your app and look it in table style
@@ -27,7 +27,7 @@ Tutorial 2 create model
             total_money = models.IntegerField(default=0)    ===> } head in table
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Tutorial 3 web page
+#### Tutorial 3 web page
 - views
     
     in file views.py you can create any function or class to make web page respond with user
