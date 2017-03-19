@@ -1,6 +1,6 @@
 # account-tutorial
 
-#### Follow this https://github.com/a5830017/account-web-app if you can't understand
+#### Follow this https://github.com/a5830017/account-web-app if you can't understand and create account app
 
 #### Tutorial 1 Setup
 - **create project**
