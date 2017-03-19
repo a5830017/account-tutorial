@@ -15,9 +15,11 @@ you should design your app and make it in table style
 - create model
 after you have idea now you can create model
 
-class Account(models.Model): ===> Name/Type of table
-    account_text = models.CharField(max_length=200) ===>
-    total_money = models.IntegerField(default=0)    ===> } head in table
+look and try to understand this guide :
+
+    class Account(models.Model): ===> Name/Type of table|
+        account_text = models.CharField(max_length=200) &and&
+        total_money = models.IntegerField(default=0)    ===> } head in table
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Tutorial 3 
