@@ -22,8 +22,8 @@
 
     look and try to understand this guide :
 
-        class Account(models.Model): ===> Name/Type of table|
-            account_text = models.CharField(max_length=200) &and&
+        class Account(models.Model): ===> Name/Type of table
+            account_text = models.CharField(max_length=200) ===> } head in table
             total_money = models.IntegerField(default=0)    ===> } head in table
 -----------------------------------------------------------------------------------------------------------------------------------
 
